@@ -14,7 +14,7 @@ Parkinson’s detection: we have several metrics that we can analyze and ultimat
 This dataset is downloaded from UCI Machine Learning Repository. It is also available in this repository ([here](https://github.com/Ravjot03/Parkinsons-Disease/blob/master/parkinsons.data)).
 
 ---
-# Contents:
+## Contents:
 1. Importing the required libraries.
 2. Importing and Reading the dataset.
 3. Data Modeling
